@@ -1,3 +1,3 @@
 // Write your code in this file!
 const currentUser = 'Aisha Choudery'
-const 
+const welcomeMessage = "Welcome to Klossybook"
