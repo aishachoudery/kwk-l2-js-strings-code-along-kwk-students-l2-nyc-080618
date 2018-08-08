@@ -1,4 +1,4 @@
 // Write your code in this file!
-const currentUser = 'Aisha Choudery'
-const welcomeMessage = "Welcome to Klossybook"
+const currentUser = 'Aisha'
+const welcomeMessage = "Welcome to Klossybook, Aisha!"
 const welcomeMessage = currentUser
