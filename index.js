@@ -2,4 +2,4 @@
 const currentUser = 'Aisha';
 const welcomeMessage = "Welcome to Klossybook, Aisha!";
 const excitedWelcomeMessage = "WELCOME TO KLOSSYBOOK, AISHA!";
-const shortGreeting = ""
+const shortGreeting = "Welcome, A!"
